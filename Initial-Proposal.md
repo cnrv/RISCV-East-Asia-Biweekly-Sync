@@ -1,5 +1,7 @@
 # 关于建立 RISC-V 社区软件移植及优化工作的双周同步机制的倡议
 
+更新 20201210: 已经建立。 内容公开在 https://github.com/cnrv/RISCV-East-Asia-Biweekly-Sync
+
 就是隔周开一次会的意思。
 
 ## 动机
