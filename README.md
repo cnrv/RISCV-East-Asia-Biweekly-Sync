@@ -22,4 +22,5 @@ Biweekly Sync Meeting for RISC-V Software Ecosystem. Meeting time is more friend
 5. RVI Vector Ext 每周会议
 6. RVI J-ext 双周会议
 7. LLVM RISCV biweekly sync （by lowRISC Alex）
-8. CIRCT？Chisel/FIRRTL？
+8. Chisel/FIRRTL (by Sequencer)
+9. CIRCT？
