@@ -1,4 +1,4 @@
-# 源于 RVV Intrinsics API 的变更讨论
+# 关于 RVV Intrinsics API 的变更讨论
 
 Sifive 預計會發一個大的 RFC 更改 vector intrinsic API, 內容主要是把 implicit VL API 拿掉, 以及一些相對應的更改。
 
