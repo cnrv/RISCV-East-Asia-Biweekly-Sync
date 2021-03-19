@@ -3,7 +3,7 @@
 RISC-V Summit China 2021 （中国峰会）目前已经开放了投稿系统和CFP，目前已经可以进行投稿了。欢迎国内外做RISC-V产品的企业和研究机构、做RISC-V软件适配和开发的公司和开发者、以及基于RISC-V进行科研的研究生及本科同学积极投稿。本次峰会持续3天以上，涵盖了RISC-V生态的方方面面。只要你的工作涉及到RISC-V，就一定可以在这里找到跟自己志同道合的小伙伴。
 
 投稿地址：
-https://easychair.org/my/conference?conf=rvsc2021#
+https://easychair.org/conferences/?conf=rvsc2021
 
 英文版本的CFP：
 https://easychair.org/cfp/RVSC2021
