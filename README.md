@@ -6,11 +6,23 @@ Biweekly Sync Meeting for RISC-V Software Ecosystem. Meeting time is more friend
 Wei Wu - PLCT Lab is inviting you to a scheduled Zoom meeting.
 
 Topic: 东亚时区RISC-V双周会
-Time: Oct 28, 2021 03:00 PM Taipei
-        Every 2 weeks on Thu, 3 occurrence(s)
-        Oct 28, 2021 03:00 PM
-        Nov 11, 2021 03:00 PM
-        Nov 25, 2021 03:00 PM
+Time: Jun 22, 2023 03:00 PM Taipei
+        Every 2 weeks on Thu, until Dec 21, 2023, 14 occurrence(s)
+        Jun 22, 2023 03:00 PM
+        Jul 6, 2023 03:00 PM
+        Jul 20, 2023 03:00 PM
+        Aug 3, 2023 03:00 PM
+        Aug 17, 2023 03:00 PM
+        Aug 31, 2023 03:00 PM
+        Sep 14, 2023 03:00 PM
+        Sep 28, 2023 03:00 PM
+        Oct 12, 2023 03:00 PM
+        Oct 26, 2023 03:00 PM
+        Nov 9, 2023 03:00 PM
+        Nov 23, 2023 03:00 PM
+        Dec 7, 2023 03:00 PM
+        Dec 21, 2023 03:00 PM
+
 ```
 Please download and import the following iCalendar (.ics) files to your calendar system.
 Weekly: https://zoom.us/meeting/tZUrcu2tqz8qGtBc3Rbt7JAoSk32ki1E5Jqx/ics?icsToken=98tyKuGpqD4uH9GRsBmDRpwcBI_4LO_wmClfjbd_n0zXATQESCL5BekRYLl2Qf2F
