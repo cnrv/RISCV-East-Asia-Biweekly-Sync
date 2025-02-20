@@ -1,5 +1,7 @@
 # 东亚时区 RISC-V 双周会
 
+关于东亚时区RISC-V双周会的历史请参考 [Initial-Proposal.md](./Initial-Proposal.md)
+
 ## 建立双周同步机制的预期目的：
 
 1. 帮助东亚和澳洲时区的小伙伴们相互之间交流进展和需求。
