@@ -26,13 +26,12 @@ Wei Wu is inviting you to a scheduled Zoom meeting.
 Topic: 东亚时区RISC-V双周会
 Time: Jan 8, 2026 03:00 PM Beijing, Shanghai
         Every 2 weeks on Thu, 60 occurrence(s)
-Please download and import the following iCalendar (.ics) files to your calendar system.
-Weekly: https://us02web.zoom.us/meeting/tZUrcu2tqz8qGtBc3Rbt7JAoSk32ki1E5Jqx/ics?icsToken=DEc0qtsqMs6aCleRgQAALAAAAOfxiudDh_NIq-AOOZDB4pcX32xY1FQgFlSl8_Ile9hFEZc8uIyhHqXfJnF5q9NsBZ1I8anqlo1f-1tdZzAwMDAwMQ
-Join Zoom Meeting
-https://us02web.zoom.us/j/81654554004?pwd=YjQ1QkRQYlN5UERuZitDZHY5QnI3UT09
+Please download and import [the following iCalendar (.ics) files to your calendar system](https://us02web.zoom.us/meeting/tZUrcu2tqz8qGtBc3Rbt7JAoSk32ki1E5Jqx/ics?icsToken=DEc0qtsqMs6aCleRgQAALAAAAOfxiudDh_NIq-AOOZDB4pcX32xY1FQgFlSl8_Ile9hFEZc8uIyhHqXfJnF5q9NsBZ1I8anqlo1f-1tdZzAwMDAwMQ).
 
-Meeting ID: 816 5455 4004
-Passcode: 569260
+Join Zoom Meeting:
+
+- Meeting ID: 816 5455 4004
+- Passcode: 569260
 
 ## 如何加入东亚时区微信群？
 
