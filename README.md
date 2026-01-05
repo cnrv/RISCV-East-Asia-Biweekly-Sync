@@ -23,15 +23,18 @@
 
 Wei Wu is inviting you to a scheduled Zoom meeting.
 
-- Topic: 东亚时区RISC-V双周会
-- Time: Mar 6, 2025 03:00 PM Taipei
-        Every 2 weeks on Thu, until Dec 25, 2025, 22 occurrence(s)
-- Please download and import the following [iCalendar (.ics) files](https://zoom.us/meeting/tZUrcu2tqz8qGtBc3Rbt7JAoSk32ki1E5Jqx/ics?icsToken=DBe_GIDQ_4zUAUDnBAAALAAAAPM7LesYScm2IIGsD-R6gHsxPcXS395hnQiWGCKggkbN-ezRkkgAyh9jx_2TX8BRnUA2S78DpNk-aNEV2zAwMDAwMQ) to your calendar system.
-- Join Zoom Meeting
-  - Meeting ID: 816 5455 4004
-  - Passcode: 569260
+Topic: 东亚时区RISC-V双周会
+Time: Jan 8, 2026 03:00 PM Beijing, Shanghai
+        Every 2 weeks on Thu, 60 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://us02web.zoom.us/meeting/tZUrcu2tqz8qGtBc3Rbt7JAoSk32ki1E5Jqx/ics?icsToken=DEc0qtsqMs6aCleRgQAALAAAAOfxiudDh_NIq-AOOZDB4pcX32xY1FQgFlSl8_Ile9hFEZc8uIyhHqXfJnF5q9NsBZ1I8anqlo1f-1tdZzAwMDAwMQ
+Join Zoom Meeting
+https://us02web.zoom.us/j/81654554004?pwd=YjQ1QkRQYlN5UERuZitDZHY5QnI3UT09
+
+Meeting ID: 816 5455 4004
+Passcode: 569260
 
 ## 如何加入东亚时区微信群？
 
-欢迎！请添加 开源社区小助手（微信ID  `fosshelper`）并且包含以下备注：【东亚时区+姓名+单位或社区】
+欢迎！请添加 开源社区小助手（微信ID  `fosshelper`）并且包含以下备注：【东亚时区+姓名】
 
